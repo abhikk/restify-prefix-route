@@ -1,1 +1,2 @@
 # restify-prefix-route
+test
