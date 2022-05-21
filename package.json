@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/abhikk/restify-prefix-route/issues"
   },
+  "publishConfig": {
+  "registry":"https://npm.pkg.github.com"
+  },
   "homepage": "https://github.com/abhikk/restify-prefix-route#readme"
 }
